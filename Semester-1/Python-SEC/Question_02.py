@@ -6,7 +6,7 @@ to the following criteria:
     Grade B: Percentage >= 70 and < 80
     Grade C: Percentage >= 60 and < 70
     Grade D: Percentage >= 40 and < 60
-    Grade F: Percentage < 40              '''
+    Grade E: Percentage < 40              '''
 
 marks1 = float(input("Enter marks obtained in 1st subject: "))
 marks2 = float(input("Enter marks obtained in 2nd subject: "))
