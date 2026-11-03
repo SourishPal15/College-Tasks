@@ -1,0 +1,1 @@
+''' Q.6) Write a program to implement the use of arrays in Python '''
